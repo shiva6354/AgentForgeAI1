@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AgentForge AI</string>
+    <string name="welcome_headline">Mobile-First AI Coding Assistant</string>
+    <string name="welcome_sub">Powered by Gemini 3.8 Flash</string>
+</resources>
